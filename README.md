@@ -4,4 +4,4 @@ This project allows for an individual to find the number of deaths caused by COV
 
 Graphs were developed in order to show the rise in deaths caused by COVID-19. Depending on the dates chosen, the user can see either a rapid or steady increase/decrease in cases that correlates to the handling of the pandemic at the time. For instance, in the winter months, COVID-19 was taking lives at a faster rate compared to the summer months, due to the cold weather. 
 
-The csv file of the deaths in New York State by day was imported into the code. Columns were formed and labeled by "date", "state", and "deaths".
+The csv file of the deaths in New York State by day was imported into the code. An output file of the death count was drawn from the original NYS history csv file. Columns were formed and labeled by "date", "state", and "deaths". 
